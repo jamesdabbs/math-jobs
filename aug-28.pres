@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+                            __    __           _            __                 _   _          
+                           / / /\ \ \___  _ __| | __       / _| ___  _ __     | |_| |__   ___ 
+                           \ \/  \/ / _ \| '__| |/ /      | |_ / _ \| '__|    | __| '_ \ / _ \
+                            \  /\  / (_) | |  |   < _     |  _| (_) | |       | |_| | | |  __/
+                             \/  \/ \___/|_|  |_|\_( )    |_|  \___/|_|        \__|_| |_|\___|
+                                                   |/                                         
+       ___      _                        _           _                   _   _                          _   _      _             
+      / __\__ _| |_ ___  __ _  ___  _ __(_) ___ __ _| |      /\/\   __ _| |_| |__   ___ _ __ ___   __ _| |_(_) ___(_) __ _ _ __  
+     / /  / _` | __/ _ \/ _` |/ _ \| '__| |/ __/ _` | |     /    \ / _` | __| '_ \ / _ \ '_ ` _ \ / _` | __| |/ __| |/ _` | '_ \ 
+    / /__| (_| | ||  __/ (_| | (_) | |  | | (_| (_| | |    / /\/\ \ (_| | |_| | | |  __/ | | | | | (_| | |_| | (__| | (_| | | | |
+    \____/\__,_|\__\___|\__, |\___/|_|  |_|\___\__,_|_|    \/    \/\__,_|\__|_| |_|\___|_| |_| |_|\__,_|\__|_|\___|_|\__,_|_| |_|
+                        |___/                                                                                                    
+
+
+
+   By James Dabbs (jamesdabbs@gmail.com)
+   https://github.com/jamesdabbs/math-jobs
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+ __      __      __  __  __          __  
+|__) /\ /  `|__// _`|__)/  \/  \|\ ||  \ 
+|__)/--\\__,|  \\__]|  \\__/\__/| \||__/ 
+                                         
+##
+Formal education
+- 2003 - 07: Undergrad @ UGA    - focus on topology, knot theory
+- 2008 - 11: Masters   @ Auburn - focus on set theoretic topology, category theory
+  - Masters thesis on applications of monads to constructing topological spaces
+
+Programming experience
+- ~2008: began programming in earnest to work on a database of topological information (http://counterexamples.info)
+  - Started with PHP, quickly moved to Python (/ Django)
+- ~2011: co-founded LLC partnering with the AU bands to help manage their membership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+ ___     __      __         ___   ___ 
+|__ |\/||__)|   /  \\ /|\/||__ |\ ||  
+|___|  ||   |___\__/ | |  ||___| \||  
+                                      
+
+##
+- Started testing the job market in 2012
+- Found Emcien through a posting on GitHub
+  - Other avenues: StackOverflow, Craigslist, LinkedIn, recruiters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+ABOUT EMCIEN (mCn)
+##
+Emcien does "automated pattern detection"
+
+Abstract graph based-analytics, applied across several problem domains
+- Graphs are a good abstraction for modeling connections between discrete pieces of data
+  - Especially useful for analyzing unstructured, categorical, or text-based data
+- The core product is novel (and proprietary)
+- Peripheral code touches on well known graph ideas:
+  - Shortest path
+  - Page rank
+  - Community detection (modularity)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+WHAT IT ISNT (EXACTLY) ...
+##
+- Machine learning
+  - Tends to work with numerical data using tools from linear algebra
+- Online analytical processing (OLAP)
+  - Tends to entail traditional statistical methods and SQL queries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+THE TRANSITION
+##
+- "There exists" usually isn't sufficient
+  - Except when looking for counterexamples
+- Problems aren't usually posed formally
+- Constant collaboration is key
+- Engineering tradeoffs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+ _____    ___ __         __  ___     __  
+/  \||__||__ |__)    /\ |__)|__  /\ /__` 
+\__/||  ||___|  \   /--\|  \|___/--\.__/ 
+                                         
+##
+##
+DATA SCIENCE
+##
+- "Big Data" is a huge market (est. 40% yearly growth to ~$17B in 2015)
+- Applications across many different industries
+- All depends on people doing math
+- Useful skills: statistics, AI, R, Mathematica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+PERSISTENT HOMOLOGY
+##
+- Applied algebraic topology
+- View data points as living inside some high dimensional metric space
+- Use algebraic topology to study the shape of data sets to find important features
+- Ayasdi - SV startup founded by G. Carlsson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+CATEGORY THEORY
+- Functional programming is a popular movement towards mathematical functions and composition
+- Many applications from category theory and algebra: monads, functors, monoids, comonads, ...
+- Haskell in particular is strongly grounded in mathematical formalism, but gaining traction in industry
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+HOMOTOPY TYPE THEORY
+- New foundational system based on type theory and based loosely on the metaphor:
+  type  : space
+  proof : point
+  =     : path
+- Constructive proofs
+- Strong applicability to automated proof assistants
+- Developed collaboratively using Git
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+GRAPH DATABASES
+- Cracks in the SQL hegemony: NoSQL / NewSQL
+- Graph databases are good tools for e.g. path-heavy queries (social networks)
+- See e.g. Neo4j
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+FINANCE
+- Requires high-performance algorithms
+- AI and game theory
+- Trans-quantitative analysis?
+- (Stupid salaries)
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+SOFTWARE ENGINEERING
+- Lots of other readily available jobs in programming
+- Good starting points: Python, R, Matlab, Mathematica, C, Ruby
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+ __  ___ __  __          ___     __    ___ __      __  
+|__)|__ /  `/  \|\/||\/||__ |\ ||  \ /\ ||/  \|\ |/__` 
+|  \|___\__,\__/|  ||  ||___| \||__//--\||\__/| \|.__/ 
+                                                       
+##
+Specifics
+- Learn _some_ kind of scripting language (like Python)
+    http://www.diveinto.org/python3/
+- Familiarize yourself with collaboration tools (like Git / GitHub)
+    http://try.github.io/
+
+In general
+- Be T-shaped
+    http://www.artofmanliness.com/2013/04/09/to-succeed-in-work-and-life-be-mr-t
+- Do things, tell people
+    http://carl.flax.ie/dothingstellpeople.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+              __      /    __  ___ __  __      __  __  ___ __  
+|   ||\ ||__//__`    /    |__)|__ /__`/  \|  ||__)/  `|__ /__` 
+|___|| \||  \.__/   /     |  \|___.__/\__/\__/|  \\__,|___.__/ 
+##
+
+Me:                          jamesdabbs@gmail.com
+This:                        http://github.com/jamesdabbs/math-jobs
+Emcien:                      http://emcien.com
+Haskell:                     http://learnyouahaskell.com
+Category Theory:             http://www.amazon.com/Categories-Working-Mathematician-Graduate-Mathematics/dp/0387984038
+Functional Programming:      http://www.fpcomplete.com/school
+                             http://www.coursera.org/course/progfun
+Applied Algebraic Topology:  http://www.ams.org/notices/201101/rtx110100036p.pdf
+                             http://www.math.upenn.edu/~ghrist/preprints-algebraic.html
+                             Frank Sturm
+                             Dr. (K) Kuperberg
+Homotopy Type Theory:        http://homotopytypetheory.org
+Machine Learning:            http://www.coursera.org/course/ml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+         ____                  __  _                 ___ 
+        / __ \__  _____  _____/ /_(_)___  ____  ____/__ \
+       / / / / / / / _ \/ ___/ __/ / __ \/ __ \/ ___// _/
+      / /_/ / /_/ /  __(__  ) /_/ / /_/ / / / (__  )/_/  
+      \___\_\__,_/\___/____/\__/_/\____/_/ /_/____/(_)   
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
